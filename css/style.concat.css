@@ -1420,13 +1420,13 @@ body {
       padding: 10rem 0; } }
 
 .book {
-  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(../../img/nat-10.jpg);
+  background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 50%, transparent 50%), url(./../img/nat-10.jpg);
   background-size: cover;
   border-radius: 3px;
   box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.2); }
   @media only screen and (max-width: 75em) {
     .book {
-      background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 60%, transparent 60%), url(../../img/nat-10.jpg);
+      background-image: linear-gradient(105deg, rgba(255, 255, 255, 0.9) 60%, transparent 60%), url(./../img/nat-10.jpg);
       background-size: cover; } }
   @media only screen and (max-width: 56.25em) {
     .book {
